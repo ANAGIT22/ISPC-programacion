@@ -1,4 +1,5 @@
 # ISPC-programacion
 
 Integrantes:
-Ana Laura Argonz
+- Ana Laura Argonz
+- Jorge Leandro Rojas
